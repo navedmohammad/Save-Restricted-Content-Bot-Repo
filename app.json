@@ -8,9 +8,9 @@
         "Save restricted content",
         "bot"
     ],
-    "repository": "https://github.com/devgaganin/save_restricted-content-telegram-bot-repo",
+    "repository": "https://github.com/navedmohammad/Save-Restricted-Content-Bot-Repo",
     "website": "",
-    "success_url": "https://t.me/dev_gagan",
+    "success_url": "https://t.me/ur_madno",
     "env": {
             "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
